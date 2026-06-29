@@ -1,0 +1,29 @@
+Definitions and Definitions and examples of operators
+a. An operator is a symbol/keyword that is used to perform task\operation on one or more values/operands.
+For example; 5 + 4 = 9
+where 5, 4 and 9 are operands and '+' and '=' are operators.
+
+b. Types of operators
+1. Arithmetic operators: These are operators that perform mathematical calcultion. They how ever consider PEMDEM not BODMAS.
+For example // for floor division(it divides and gives an answer using the nearest whole number to the answer) and % for modulus(gives the remainder as an answer after dividing)
+
+2. Assignment operators: These are operators that are used to attach values to variables.
+For example '+=' add and assign operator and '**=' exponenet and assign.
+
+3. Compirision operator: These are operators used to compare two values and gives a false or true.
+For example '!=' not equal to and '==' equal to
+
+4. Logical operator: These are operators used to join 2 or more conditions.
+For examples 'and' returns true if both condition ar true and 'not' exchanges the results.
+
+5. Membership operators: These are used to finout if a values exists in a list, tuple or string.
+For example 'in' returns true if found and 'not in' returns true if value not found and vice versa
+
+6. Identity operators: these are operators that show whether 2 variable are the same object in memory.
+For exapmle 'is' gives true is bothe variables are the object and 'is not' gives true if the variables are different objects in memory.
+
+7. Conditional operators: These are operators used as a short way of writing if, if...else and if...elif...else statements.
+For example return
+
+8. Bitwise Operator: These are operators that directly use the binary form of numbers.
+For example '~' for not in bitwise and '^' for or in bitwise.
